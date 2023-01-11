@@ -10,7 +10,7 @@ import SwiftUI
 struct FavouritePlacesView: View {
     var body: some View {
         VStack {
-            Text("Hello, World!")
+            Text("List of places")
         }
     }
 }
